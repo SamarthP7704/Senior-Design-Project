@@ -6,7 +6,7 @@ The project will explore trade tracking, performance analysis, risk management, 
 
 ## Team Members
 
-- Ishaa Jain - Computer Science
+- Ishaa Jain - Computer Science 
 - Samarth Prajapati - Computer Science
 
 ## Faculty Advisor
@@ -22,5 +22,5 @@ For more details about the project, see:
 ## Repository Contents
 
 - `Project-Description.md` - Senior design project description
-- Professional biographies for each team member
+- [Professional Biography Samarth](./Professional_Biography_prajapsr.md)
 - Future project documentation and source code
