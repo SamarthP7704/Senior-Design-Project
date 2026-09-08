@@ -23,4 +23,5 @@ For more details about the project, see:
 
 - `Project-Description.md` - Senior design project description
 - [Professional Biography Samarth](./Professional_Biography_prajapsr.md)
+- [Professional Biography Ishaa](./Ishitaa_Jain_Professional_Biography.md)
 - Future project documentation and source code
