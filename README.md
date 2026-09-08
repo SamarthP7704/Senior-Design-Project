@@ -17,7 +17,7 @@ Dr. William Hawkins III
 
 For more details about the project, see:
 
-[Project Description](./Project-Description.md)
+[Project Description](./project_description.md)
 
 ## Repository Contents
 
