@@ -1,3 +1,4 @@
+
 # TradeIO
 
 TradeIO is a senior design project focused on developing an AI-assisted trading journal and behavioral analytics platform.
@@ -6,7 +7,7 @@ The project will explore trade tracking, performance analysis, risk management, 
 
 ## Team Members
 
-- Ishaa Jain - Computer Science 
+- Ishaa Jain - Computer Science
 - Samarth Prajapati - Computer Science
 
 ## Faculty Advisor
@@ -21,7 +22,11 @@ For more details about the project, see:
 
 ## Repository Contents
 
-- `Project-Description.md` - Senior design project description
+- [Project Description](./project_description.md) - Senior design project description
 - [Professional Biography Samarth](./Professional_Biography_prajapsr.md)
 - [Professional Biography Ishaa](./Ishitaa_Jain_Professional_Biography.md)
+- [User Stories](./User_Stories.md) - User stories and use cases
+- [Design Diagrams](./Design_Diagrams/) - D0, D1, and D2 system design documentation
+- [Requirements Document](./Requirements_Document.md) - Functional and non-functional requirements, priorities, and constraints
+- [Technical Specification](./Technical_Specification.md) - System architecture, component interfaces, technology stack, and requirements traceability
 - Future project documentation and source code
